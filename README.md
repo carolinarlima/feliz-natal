@@ -39,3 +39,30 @@ Neste projeto, foquei em consolidar os seguintes conhecimentos:
 3.  **Lógica de Eventos:** Captura de cliques para disparar as funções de animação.
 
 ---
+
+## 💻 Como rodar este projeto
+
+1.  **Clone o repositório:**
+    ```bash
+    git clone [https://github.com/seu-usuario/nome-do-seu-projeto.git](https://github.com/seu-usuario/nome-do-seu-projeto.git)
+    ```
+2.  **Acesse a pasta:**
+    ```bash
+    cd nome-do-seu-projeto
+    ```
+3.  **Abra o arquivo principal:**
+    Basta abrir o arquivo `index.html` em qualquer navegador.
+
+---
+
+## 👤 Autor
+
+Desenvolvido por **Carolina Lima**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolinarlima/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carolinarlima)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/carolinarlima/pen/xbObKBg)
+
+---
+⭐️ *Se este projeto te inspirou, não esqueça de deixar uma estrela!*
+
